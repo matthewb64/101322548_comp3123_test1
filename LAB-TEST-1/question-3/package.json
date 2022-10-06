@@ -1,0 +1,21 @@
+{
+  "name": "question-3",
+  "version": "1.0.0",
+  "description": "Lab test - remove and add log files",
+  "main": "add.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lab",
+    "test",
+    "remove",
+    "log",
+    "files",
+    "add",
+    "log",
+    "files"
+  ],
+  "author": "Matthew Beyene",
+  "license": "ISC"
+}
